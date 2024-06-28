@@ -15,11 +15,8 @@ using System.Windows.Shapes;
 using System.Windows.Threading;
 using AForge.Video;
 using AForge.Video.DirectShow;
-using Emgu.CV;
-using Emgu.CV.CvEnum;
-using Emgu.CV.Structure;
 
-namespace EmguCVDemoOnWPF
+namespace AForgeDemoOnWPF
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

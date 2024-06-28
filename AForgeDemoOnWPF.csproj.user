@@ -7,7 +7,7 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="EmguCVConnect.xaml">
+    <Page Update="AForgeConnect.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

@@ -1934,9 +1934,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BINF\\Desktop\\Term07\\PRN212\\EmguCVDemoOnWPF\\EmguCVDemoOnWPF.csproj",
-      "projectName": "EmguCVDemoOnWPF",
-      "projectPath": "C:\\Users\\BINF\\Desktop\\Term07\\PRN212\\EmguCVDemoOnWPF\\EmguCVDemoOnWPF.csproj",
+      "projectUniqueName": "C:\\Users\\BINF\\Desktop\\Term07\\PRN212\\EmguCVDemoOnWPF\\AForgeDemoOnWPF.csproj",
+      "projectName": "AForgeDemoOnWPF",
+      "projectPath": "C:\\Users\\BINF\\Desktop\\Term07\\PRN212\\EmguCVDemoOnWPF\\AForgeDemoOnWPF.csproj",
       "packagesPath": "C:\\Users\\BINF\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\BINF\\Desktop\\Term07\\PRN212\\EmguCVDemoOnWPF\\obj\\",
       "projectStyle": "PackageReference",

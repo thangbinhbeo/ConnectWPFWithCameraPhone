@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xhGj+BrA9Pm+WSJmFdgh5ziU8v/wZF4C8Sbbg94sXPq+jMbsxvtUFiAL3FGL9v6xEGXrFvOStyYNYS+kwHXHQQ==",
+  "dgSpecHash": "NhLfYAYm+eSHhcTrSU00YmhQYpVgfvB169p8n3sb/uoJAJWeGfBB/1r9G3KzCEG9nUWYX/lFGdiYYfpKNZiKqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BINF\\Desktop\\Term07\\PRN212\\EmguCVDemoOnWPF\\EmguCVDemoOnWPF.csproj",
+  "projectFilePath": "C:\\Users\\BINF\\Desktop\\Term07\\PRN212\\EmguCVDemoOnWPF\\AForgeDemoOnWPF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BINF\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
     "C:\\Users\\BINF\\.nuget\\packages\\aforge.video\\2.2.5\\aforge.video.2.2.5.nupkg.sha512",
